@@ -1,0 +1,9 @@
+Este es el orden de los comandos del github:
+1. git init (inicializa el repositorio)
+2. git remote add <nombre> <url> (agrega un repositorio remoto)
+3. git branch add <nombre> (crea una nueva rama y se mueve a ella (en caso de ser necesario))
+4. git add . (agrega todos los archivos modificados)
+5. git commit -m "<nombre del commit>" (confirma los cambios)
+6. git push origin <nombre_rama> (sube los cambios al repositorio remoto)
+7. git status (muestra el estado del repositorio)
+8. git log --oneline (muestra el historial de commits de forma resumida (en caso de querer ver los commits desde visualización)
